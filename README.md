@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amStevee
+- 👋 Hi, I’m Steven Anongo
 - 👀 I’m interested in web development
 - i've good understanding on the fundamentals of HTML, CSS, Javascript and node js
 - 🌱 I’m currently learning react js
