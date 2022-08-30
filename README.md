@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @amStevee
+- 👀 I’m interested in web development
+- i've good understanding on the fundamentals of HTML, CSS, Javascript and node js
+- 🌱 I’m currently learning react js
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me stevenanongo2@gmail.com
